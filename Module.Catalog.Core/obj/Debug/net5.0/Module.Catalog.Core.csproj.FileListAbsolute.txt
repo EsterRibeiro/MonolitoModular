@@ -1,0 +1,17 @@
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Module.Catalog.Core.deps.json
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Module.Catalog.Core.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\ref\Module.Catalog.Core.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Module.Catalog.Core.pdb
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Shared.Core.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Shared.Models.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Shared.Core.pdb
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\bin\Debug\net5.0\Shared.Models.pdb
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.csprojAssemblyReference.cache
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.AssemblyInfo.cs
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.csproj.CopyComplete
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\ref\Module.Catalog.Core.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.Catalog.Core\obj\Debug\net5.0\Module.Catalog.Core.pdb

@@ -1,0 +1,11 @@
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\bin\Debug\net5.0\Module.People.deps.json
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\bin\Debug\net5.0\Module.People.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\bin\Debug\net5.0\ref\Module.People.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\bin\Debug\net5.0\Module.People.pdb
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\Module.People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\Module.People.AssemblyInfoInputs.cache
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\Module.People.AssemblyInfo.cs
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\Module.People.csproj.CoreCompileInputs.cache
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\Module.People.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\ref\Module.People.dll
+C:\Users\ester.santos\source\repos\ModularMonolithSimple\Module.People\obj\Debug\net5.0\Module.People.pdb
